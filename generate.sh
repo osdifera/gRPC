@@ -1,2 +1,2 @@
 #!/bin/sh
-protoc -I src/ --go_out=go/ src/messages/person.proto
+protoc -I src/ --go_out=. src/messages/person.proto
