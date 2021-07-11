@@ -7,4 +7,4 @@ message Person {
   int32 age = 3;
 }
 
-option go_package = "proto/";
+option go_package = "pbmodels/";
